@@ -1,0 +1,24 @@
+{
+  "name": "gsearch-urls",
+  "version": "0.0.0",
+  "description": "Get urls from Google search according to your query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SeyZ/gsearch-urls.git"
+  },
+  "author": "Sandro Munda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeyZ/gsearch-urls/issues"
+  },
+  "homepage": "https://github.com/SeyZ/gsearch-urls",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "request": "^2.42.0"
+  }
+}
